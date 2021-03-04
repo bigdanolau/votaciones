@@ -1,0 +1,38 @@
+.navbar-default .navbar-nav > li > a
+{
+	color: black;
+}
+.menu1 {
+	
+	text-align: center;
+	font-size: 20px;
+}
+
+.navbar-header {
+	background-color: #737373;
+}
+
+.navbar-default {
+	background-color: #737373;
+}
+
+.login {
+	margin:0 auto;
+}
+thead
+{
+    background-color: cornflowerblue;
+}
+td
+{
+    
+    font-size: 14px;
+}
+.center-block {
+	
+  display: block;
+	 float: none;
+  margin-right: auto;
+  margin-left: auto;
+
+}
